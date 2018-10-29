@@ -44,4 +44,4 @@ Make sure you understand the difference between JavaScript's assignment operato
 
 ### Finishing up ###
 
-Once you have completed all three TODOs, your index.html file should display five buttons, and clicking on any of those buttons should produce the desired behavior.
+Once you have completed all three TODOs, your index.html file should display five buttons, and clicking on any of those buttons should produce the desired behavior. Push your code into your GitLab repository and use the GitLab Pages feature to allow your site to be viewed directly. Please submit the published gitlab pages url below.

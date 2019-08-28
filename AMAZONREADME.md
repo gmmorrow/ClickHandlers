@@ -1,4 +1,4 @@
-# Assessment: Click Handlers #
+# Activity: Click Handlers #
 
 For this activity, you will be creating an interactive web page that gets updated or modified when various buttons are clicked. 
 
@@ -129,5 +129,5 @@ Make sure you understand the difference between JavaScript's assignment operato
 ### Finishing up ###
 
 Once you have completed all three TODOs, your index.html file should display five buttons, and clicking on any of those 
-buttons should produce the desired behavior. Push your code into a GitHub repository. Please submit your GitHub URL
+buttons should produce the desired behavior. Push your code into a GitHub repository. Please submit your GitHub for review (OPTIONAL)
 
